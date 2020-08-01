@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                
+                android:text="How you like that"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="I Do"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="I Hope"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="The Spectre"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="Kill this love"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="Love"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="Busan"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="One Kiss"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="Dance Monkey"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="What Do You Mean?"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:background="@drawable/custom_item_tag"
+            android:paddingLeft="17dp"
+            android:paddingTop="7dp"
+            android:paddingRight="17dp"
+            android:paddingBottom="7dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onClickTag"
+                android:text="Thunder"
+                android:textColor="@color/colorWhite" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

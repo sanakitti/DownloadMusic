@@ -1,0 +1,40 @@
+
+f
+java:S1301k"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ
+k
+java:S2095Å"TUse try-with-resources or close this "MediaMetadataRetriever" in a "finally" clause.(Ì·¾Å
+F
+java:S3740µ"/Provide the parametrized type for this generic.(ñ¦—†
+c
+java:S1192\"HDefine a constant instead of duplicating this literal "audio/*" 3 times.(ŒÙäÇúÿÿÿÿ
+V	java:S110("<This class has 9 parents which is greater than 5 authorized.(‘Ìš’ûÿÿÿÿ
+p
+java:S14503"URemove the "adView" field and declare it as a local variable in the relevant methods.(Í©Ñ±øÿÿÿÿ
+l
+java:S1450,"VRemove the "animZom" field and declare it as a local variable in the relevant methods.(Ÿ²‡
+w
+java:S14501"\Remove the "imgBackSearch" field and declare it as a local variable in the relevant methods.(ù¦œúÿÿÿÿ
+n
+java:S1450)"XRemove the "lvManager" field and declare it as a local variable in the relevant methods.(§ÿÆë
+^
+java:S1874/"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Õåäñúÿÿÿÿ
+H
+java:S1874@"2Remove this use of "initialize"; it is deprecated.(Ü’İõ
+<	java:S131k""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+i
+java:S4042n"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(‰®èÛúÿÿÿÿ
+C
+java:S1125o"(Remove the literal "true" boolean value.(ï“Ëåıÿÿÿÿ
+=	java:S131""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+?
+java:S1185¢"(Remove this method to simply inherit it.(ËĞƒ
+i
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(µìë…
+I
+java:S1874î"2Remove this use of "initialize"; it is deprecated.(¡ÁÚ†
+
+java:S1186ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞ¦¶şÿÿÿÿ
+A
+java:S1068,"+Remove this unused "animZom" private field.(Ÿ²‡

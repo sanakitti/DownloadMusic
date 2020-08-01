@@ -1,0 +1,14 @@
+
+Š
+java:S1319"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(Ô‰ı
+w
+java:S1488&"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(Ûóşx
+G
+java:S1128
+"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+:
+java:S1659K"$Declare "tvDate" on a separate line.(™ ê˜
+>
+java:S1659K"(Declare "tvDuration" on a separate line.(™ ê˜
+@
+java:S1068"+Remove this unused "context" private field.(êİç

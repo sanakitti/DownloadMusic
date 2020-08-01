@@ -1,0 +1,27 @@
+
+z
+java:S14504"_Remove the "tvDownloadIntent" field and declare it as a local variable in the relevant methods.(ïâ¸ƒûÿÿÿÿ
+>
+java:S1125W"(Remove the literal "true" boolean value.(­ÊÙû
+o
+java:S1450;"YRemove the "lvHotSongs" field and declare it as a local variable in the relevant methods.(‰§Ì’
+B
+java:S16598"'Declare "imgOption" on a separate line.(›œÑûÿÿÿÿ
+f
+java:S1192`"KDefine a constant instead of duplicating this literal "checkFirst" 7 times.(ÖÉÖùÿÿÿÿ
+i
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(°¿ö¨
+o	java:S1161"ZRename this field "PERMISSION_LIST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÌãÿ
+?	java:S108ƒ")Either remove or fill this block of code.(”ı¾
+Q	java:S110/"<This class has 9 parents which is greater than 5 authorized.(¬ŠËÀ
+w
+java:S14508"\Remove the "imgDownloaded" field and declare it as a local variable in the relevant methods.(›œÑûÿÿÿÿ
+y
+java:S14509"^Remove the "imgPlayAndPause" field and declare it as a local variable in the relevant methods.(ş“ç÷øÿÿÿÿ
+m
+java:S1450:"WRemove the "rlSearch" field and declare it as a local variable in the relevant methods.(ıçòÊ
+8	java:S131""Add a default case to this switch.(ºÖ
+D
+java:S1125A")Remove the literal "false" boolean value.(¬õ²¯ÿÿÿÿÿ
+w
+java:S14500"URemove the "random" field and declare it as a local variable in the relevant methods.(’ºİÃøÿÿÿÿ8•Çº.

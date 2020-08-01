@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221199576443",
+    "firebase_url": "https://musicdownloader-e3b8e.firebaseio.com",
+    "project_id": "musicdownloader-e3b8e",
+    "storage_bucket": "musicdownloader-e3b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221199576443:android:fd620c367a8513519be1de",
+        "android_client_info": {
+          "package_name": "sn.free.music.downloadmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221199576443-56e3ih2l0dvpmcck538730g9v7jskfu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKCftGuVekFeUx-21bAGKzHNZ2oAqMw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221199576443-56e3ih2l0dvpmcck538730g9v7jskfu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

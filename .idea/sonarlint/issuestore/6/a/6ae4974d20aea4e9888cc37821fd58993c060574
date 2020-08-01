@@ -1,0 +1,7 @@
+
+
+java:S1319"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÇÏöøÿÿÿÿ
+w
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(Ûóşx
+@
+java:S1068"+Remove this unused "context" private field.(êİç

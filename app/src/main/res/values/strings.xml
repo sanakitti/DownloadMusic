@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MusicDownloader</string>
+
+
+
+
+    <string name="hin_edt_link">Input link music</string>
+    <string name="search">Search</string>
+    <string name="warning_input">Please input your link</string>
+    <string name="download">Downloading</string>
+    <string name="search_hint">Search name music</string>
+    <string name="more_app">More Apps</string>
+    <string name="advance_gl_wallpaper_des">advance gl wallpaper des</string>
+    <string name="share_app">Share with friends</string>
+    <string name="rate_app">Rate this app</string>
+    <string name="get_link">Get link ...</string>
+    <string name="downloading">Downloading...</string>
+    <string name="empty_file">You haven\'t downloaded any music yet, please press \"Music Downloader\" to start</string>
+    <string name="delete_finish">Delete music finish</string>
+    <string name="delete_error">Delete error</string>
+    <string name="warning_search">Please input name music</string>
+    <string name="roboto_regular">roboto</string>
+    <string name="rate_app_text">If you find it useful give us 5 stars\nThat is a great encouragement for us.Thanks!!</string>
+
+    <string name="playing_notification_name">playing notification</string>
+    <string name="playing_notification_description">The playing notification provides actions for play/pause etc</string>
+    <string name="hint_search">Song name or artist name...</string>
+    <string name="het_key">Hot Key</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="use_ful">Useful</string>
+    <string name="title_splat">Best app download music</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+
+
+
+
+
+
+
+
+    <!--ads-->
+    <string name="mobile_id" translatable="false">ca-app-pub-5144425423470785~8508905282</string>
+    <string name="ads_full" translatable="false">ca-app-pub-5144425423470785/4378088580</string>
+    <string name="ads_banner" translatable="false">ca-app-pub-5144425423470785/5882741946</string>
+    <string name="hot_songs">Hot Songs</string>
+</resources>
